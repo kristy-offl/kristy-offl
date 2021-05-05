@@ -1,6 +1,3 @@
-[Github Stats](https://github-readme-stats.vercel.app/api?username=kristy-offl&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
-
-
 ### Hi there 👋
 
 - **🔭 I’m currently working on [Telegram Bots](https://t.me/ML_BotUpdates)**
@@ -19,3 +16,4 @@
 
 - **⚡ Fun fact Watching Cartoons**
 
+[Github Stats](https://github-readme-stats.vercel.app/api?username=kristy-offl&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
