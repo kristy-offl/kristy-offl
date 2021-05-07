@@ -16,4 +16,4 @@
 
 - **⚡ Fun fact Watching Cartoons**
 
-[Github Stats](https://github-readme-stats.vercel.app/api?username=kristy-offl&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kristy-offl&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
