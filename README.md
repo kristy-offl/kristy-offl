@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | [![Profile views](https://gpvc.arturio.dev/Kristy-offl)](https://github.com/kristy-offl)
+
+<p align="center">
+  <a href="https://t.me/abt_meh"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+    </p>
+<h3>
 
 - <i>🔭 I’m currently working on [Telegram Bots](https://t.me/HiroshiBots)</i>
 
