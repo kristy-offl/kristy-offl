@@ -8,7 +8,7 @@
 
 - <i>👯 I’m looking to collaborate on GitHub</i> 
 
-- <i>📫 How to reach me **<a href='https://t.me/Itz_Me_Malayali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ•°✯『★Tᴍ★』『0』</a></i>
+- <i>📫 How to reach me <a href='https://t.me/Itz_Me_Malayali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ•°✯『★Tᴍ★』『0』</a></i>
 
 - <i>⚡ Fun fact Watching Cartoons</i>
 
