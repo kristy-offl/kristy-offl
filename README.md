@@ -13,8 +13,8 @@
 
 - <i>👯 I’m looking to collaborate on GitHub</i> 
 
-- <i>📫 How to reach me <a href='https://t.me/Itz_Me_Malayali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ•°✯『★Tᴍ★』『0』</a></i>
-
+- <i>📫 How to reach me</i> <b><a href='https://t.me/Itz_Me_Malayali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ•°✯</a></b>
+  
 - <i>⚡ Fun fact Watching Cartoons</i>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kristy-offl&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+   ![Github Stats](https://github-readme-stats.vercel.app/api?username=kristy-offl&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
